@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+}
+
+/* header section  */
+#navbar-header {
+    background-color: gray;
+}
+h1 {
+    margin: 30px auto;
+}
+/* main content section  */
+#main-content { 
+    margin: 10px 15px 0 15px;
+}
+#main-content .container-fluid {
+    background-color: gray;
+    padding: 10px 12px 0 12px;
+}
